@@ -1,2 +1,2 @@
 # Mictec-Java-Classes
-resources and exercises being used teaching java
+resources and exercises being used in teaching java
